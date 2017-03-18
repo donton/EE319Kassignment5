@@ -13,7 +13,7 @@
 *.swp
 *.valvano
 *.iex
-Icon\r\r
+!Icon
 *.plg
 *.tra
 *.uvgui
